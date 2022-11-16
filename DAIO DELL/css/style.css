@@ -770,3 +770,9 @@ ul {
     top: 3px;
   }
 }
+
+@media screen and (max-width: 990px) {
+  .productosFooter .iconos {
+    display:none !important;
+  }
+}
